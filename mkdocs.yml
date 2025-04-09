@@ -104,8 +104,8 @@ nav:
         # # - aulas/11-tipos-de-dados/index.md
         # # - aulas/12-revisao/index.md
         # # - aulas/13-linux-do-zero/index.md
-        # - aulas/10-processos/index.md
-        # - aulas/11-exec/index.md
+        - aulas/10-processos/index.md
+        - aulas/11-exec/index.md
         # - aulas/12-entrada-saida/index.md
         # - aulas/13-sinais-I/index.md
         # - aulas/14-sinais-II/index.md
@@ -117,7 +117,7 @@ nav:
         
     - Labs:
         - labs/hackerlab.md
-        # - labs/processos.md
+        - labs/processos.md
         # - labs/threads.md
     - Dicas:
         - outros/github.md
