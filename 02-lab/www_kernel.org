@@ -66,10 +66,10 @@
         </tr>
         <tr>
             <td id="latest_link">
-                <a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.14.3.tar.xz">6.14.3</a>
+                <a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.14.4.tar.xz">6.14.4</a>
             </td>
             <td id="latest_button">
-                <a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.14.3.tar.xz"><img src="https://www.kernel.org/theme/images/icons/downloadarrow_small.png" width="48" height="48" border="0" alt="Download"/></a>
+                <a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.14.4.tar.xz"><img src="https://www.kernel.org/theme/images/icons/downloadarrow_small.png" width="48" height="48" border="0" alt="Download"/></a>
             </td>
         </tr>
         </table>
@@ -94,15 +94,15 @@
         </tr>
         <tr align="left">
             <td>stable:</td>
-            <td><strong>6.14.3</strong></td>
-            <td>2025-04-20</td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.14.3.tar.xz" title="Download complete tarball">tarball</a>] </td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.14.3.tar.sign" title="Download PGP verification signature">pgp</a>]  </td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.14.3.xz" title="Download patch to previous mainline">patch</a>] </td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.14.2-3.xz" title="Download incremental patch">inc.&nbsp;patch</a>] </td>
-            <td>[<a href="https://git.kernel.org/stable/ds/v6.14.3/v6.14.2" title="View diff in cgit">view&nbsp;diff</a>] </td>
-            <td>[<a href="https://git.kernel.org/stable/h/v6.14.3" title="Browse the git tree using cgit">browse</a>]  </td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.14.3" title="View detailed change logs">changelog</a>] </td>
+            <td><strong>6.14.4</strong></td>
+            <td>2025-04-25</td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.14.4.tar.xz" title="Download complete tarball">tarball</a>] </td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.14.4.tar.sign" title="Download PGP verification signature">pgp</a>]  </td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.14.4.xz" title="Download patch to previous mainline">patch</a>] </td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.14.3-4.xz" title="Download incremental patch">inc.&nbsp;patch</a>] </td>
+            <td>[<a href="https://git.kernel.org/stable/ds/v6.14.4/v6.14.3" title="View diff in cgit">view&nbsp;diff</a>] </td>
+            <td>[<a href="https://git.kernel.org/stable/h/v6.14.4" title="Browse the git tree using cgit">browse</a>]  </td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.14.4" title="View detailed change logs">changelog</a>] </td>
         </tr>
         <tr align="left">
             <td>stable:</td>
@@ -118,39 +118,39 @@
         </tr>
         <tr align="left">
             <td>longterm:</td>
-            <td><strong>6.12.24</strong></td>
-            <td>2025-04-20</td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.12.24.tar.xz" title="Download complete tarball">tarball</a>] </td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.12.24.tar.sign" title="Download PGP verification signature">pgp</a>]  </td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.12.24.xz" title="Download patch to previous mainline">patch</a>] </td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.12.23-24.xz" title="Download incremental patch">inc.&nbsp;patch</a>] </td>
-            <td>[<a href="https://git.kernel.org/stable/ds/v6.12.24/v6.12.23" title="View diff in cgit">view&nbsp;diff</a>] </td>
-            <td>[<a href="https://git.kernel.org/stable/h/v6.12.24" title="Browse the git tree using cgit">browse</a>]  </td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.12.24" title="View detailed change logs">changelog</a>] </td>
+            <td><strong>6.12.25</strong></td>
+            <td>2025-04-25</td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.12.25.tar.xz" title="Download complete tarball">tarball</a>] </td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.12.25.tar.sign" title="Download PGP verification signature">pgp</a>]  </td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.12.25.xz" title="Download patch to previous mainline">patch</a>] </td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.12.24-25.xz" title="Download incremental patch">inc.&nbsp;patch</a>] </td>
+            <td>[<a href="https://git.kernel.org/stable/ds/v6.12.25/v6.12.24" title="View diff in cgit">view&nbsp;diff</a>] </td>
+            <td>[<a href="https://git.kernel.org/stable/h/v6.12.25" title="Browse the git tree using cgit">browse</a>]  </td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.12.25" title="View detailed change logs">changelog</a>] </td>
         </tr>
         <tr align="left">
             <td>longterm:</td>
-            <td><strong>6.6.87</strong></td>
-            <td>2025-04-10</td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.87.tar.xz" title="Download complete tarball">tarball</a>] </td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.87.tar.sign" title="Download PGP verification signature">pgp</a>]  </td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.6.87.xz" title="Download patch to previous mainline">patch</a>] </td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.6.86-87.xz" title="Download incremental patch">inc.&nbsp;patch</a>] </td>
-            <td>[<a href="https://git.kernel.org/stable/ds/v6.6.87/v6.6.86" title="View diff in cgit">view&nbsp;diff</a>] </td>
-            <td>[<a href="https://git.kernel.org/stable/h/v6.6.87" title="Browse the git tree using cgit">browse</a>]  </td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.6.87" title="View detailed change logs">changelog</a>] </td>
+            <td><strong>6.6.88</strong></td>
+            <td>2025-04-25</td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.88.tar.xz" title="Download complete tarball">tarball</a>] </td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.88.tar.sign" title="Download PGP verification signature">pgp</a>]  </td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.6.88.xz" title="Download patch to previous mainline">patch</a>] </td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.6.87-88.xz" title="Download incremental patch">inc.&nbsp;patch</a>] </td>
+            <td>[<a href="https://git.kernel.org/stable/ds/v6.6.88/v6.6.87" title="View diff in cgit">view&nbsp;diff</a>] </td>
+            <td>[<a href="https://git.kernel.org/stable/h/v6.6.88" title="Browse the git tree using cgit">browse</a>]  </td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.6.88" title="View detailed change logs">changelog</a>] </td>
         </tr>
         <tr align="left">
             <td>longterm:</td>
-            <td><strong>6.1.134</strong></td>
-            <td>2025-04-10</td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.134.tar.xz" title="Download complete tarball">tarball</a>] </td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.134.tar.sign" title="Download PGP verification signature">pgp</a>]  </td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.1.134.xz" title="Download patch to previous mainline">patch</a>] </td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.1.133-134.xz" title="Download incremental patch">inc.&nbsp;patch</a>] </td>
-            <td>[<a href="https://git.kernel.org/stable/ds/v6.1.134/v6.1.133" title="View diff in cgit">view&nbsp;diff</a>] </td>
-            <td>[<a href="https://git.kernel.org/stable/h/v6.1.134" title="Browse the git tree using cgit">browse</a>]  </td>
-            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.1.134" title="View detailed change logs">changelog</a>] </td>
+            <td><strong>6.1.135</strong></td>
+            <td>2025-04-25</td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.135.tar.xz" title="Download complete tarball">tarball</a>] </td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.1.135.tar.sign" title="Download PGP verification signature">pgp</a>]  </td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/patch-6.1.135.xz" title="Download patch to previous mainline">patch</a>] </td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/incr/patch-6.1.134-135.xz" title="Download incremental patch">inc.&nbsp;patch</a>] </td>
+            <td>[<a href="https://git.kernel.org/stable/ds/v6.1.135/v6.1.134" title="View diff in cgit">view&nbsp;diff</a>] </td>
+            <td>[<a href="https://git.kernel.org/stable/h/v6.1.135" title="Browse the git tree using cgit">browse</a>]  </td>
+            <td>[<a href="https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.1.135" title="View detailed change logs">changelog</a>] </td>
         </tr>
         <tr align="left">
             <td>longterm:</td>
@@ -190,14 +190,14 @@
         </tr>
         <tr align="left">
             <td>linux-next:</td>
-            <td><strong>next-20250423</strong></td>
-            <td>2025-04-23</td>
+            <td><strong>next-20250424</strong></td>
+            <td>2025-04-24</td>
             <td> </td>
             <td> </td>
             <td> </td>
             <td> </td>
             <td> </td>
-            <td>[<a href="https://git.kernel.org/next/linux-next/h/next-20250423" title="Browse the git tree using cgit">browse</a>]  </td>
+            <td>[<a href="https://git.kernel.org/next/linux-next/h/next-20250424" title="Browse the git tree using cgit">browse</a>]  </td>
             <td> </td>
         </tr>
         </table>

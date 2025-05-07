@@ -620,6 +620,10 @@ Python</span>
                                 
                                 
                                 <li>
+<time datetime="2025-04-24T19:21:00.000003+00:00"><span class="say-no-more">2025-</span>04-24</time>
+ <a href="https://pyfound.blogspot.com/2025/04/2025-psf-board-election-schedule-change.html">2025 PSF Board Election Schedule Change</a></li>
+                                
+                                <li>
 <time datetime="2025-04-22T12:44:00.000001+00:00"><span class="say-no-more">2025-</span>04-22</time>
  <a href="https://pyfound.blogspot.com/2025/04/psf-grants-program-2024-transparency.html">PSF Grants Program 2024 Transparency Report</a></li>
                                 
@@ -635,10 +639,6 @@ Python</span>
 <time datetime="2025-03-14T17:27:00.000004+00:00"><span class="say-no-more">2025-</span>03-14</time>
  <a href="https://pythoninsider.blogspot.com/2025/03/python-3140-alpha-6-is-out.html">Python 3.14.0 alpha 6 is out</a></li>
                                 
-                                <li>
-<time datetime="2025-03-12T15:32:00.000002+00:00"><span class="say-no-more">2025-</span>03-12</time>
- <a href="https://pyfound.blogspot.com/2025/03/dsa-thomas-wouters.html">PSF Distinguished Service Award Granted to Thomas Wouters</a></li>
-                                
                             </ul>
                         </div><!-- end .shrubbery -->
 
@@ -652,12 +652,6 @@ Python</span>
                             <p class="give-me-more"><a href="/events/calendars/" title="More Events">More</a></p>
                             
                             <ul class="menu">
-                                
-                                
-                                
-                                <li>
-<time datetime="2025-04-25T09:30:00+00:00"><span class="say-no-more">2025-</span>04-25</time>
- <a href="/events/python-user-group/1828/">Django Girls Ho, 2025</a></li>
                                 
                                 
                                 
@@ -684,6 +678,12 @@ Python</span>
  <a href="/events/python-user-group/1992/">Michigan Python May Meeting</a></li>
                                 
                                 
+                                
+                                <li>
+<time datetime="2025-05-10T00:00:00+00:00"><span class="say-no-more">2025-</span>05-10</time>
+ <a href="/events/python-user-group/1979/">Python Communities - Bamenda</a></li>
+                                
+                                
                             </ul>
                         </div>
 
@@ -705,17 +705,17 @@ Python</span>
                             <p class="give-me-more"><a href="/success-stories/" title="More Success Stories">More</a></p>
 
                             
-                            <div class="success-story-item" id="success-story-930">
+                            <div class="success-story-item" id="success-story-1101">
 
                             <blockquote>
-                                <a href="/success-stories/python-for-financial-machine-learning-at-union-investment/">Python and its broad variety of libraries are very well suited to develop customized machine learning tools which tackle the complex challenges posed by financial time series.</a>
+                                <a href="/success-stories/a-startup-healthcare-tech-firm-is-now-poised-for-the-future/">“We feel much better equipped now to handle the challenges. And if we run into an issue, we’ll come to Caktus to hammer it out,&quot; said Stephen Johnston, VP of Engineering, at Force Therapeutics.</a>
                             </blockquote>
 
                             <table cellpadding="0" cellspacing="0" border="0" width="100%" class="quote-from">
                                 <tbody>
                                     <tr>
                                         
-                                        <td><p><a href="/success-stories/python-for-financial-machine-learning-at-union-investment/">Python for Financial Machine Learning at Union Investment</a> <em>by Dr. Christian Mandery and Nikolas Gerlich</em></p></td>
+                                        <td><p><a href="/success-stories/a-startup-healthcare-tech-firm-is-now-poised-for-the-future/">A Startup Healthcare Tech Firm Is Now Poised for the Future</a> <em>by Caktus Group</em></p></td>
                                     </tr>
                                 </tbody>
                             </table>

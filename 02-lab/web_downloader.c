@@ -198,3 +198,6 @@ int main(int argc, char **argv) {
     
     return 0;
 }
+
+
+//pai marter um pid (vetor) dos filhos pra fazer acompanhamento de qual terminou ou nao
